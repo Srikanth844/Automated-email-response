@@ -1,0 +1,6 @@
+pinecone
+openai
+imaplib
+email
+smtplib
+time
